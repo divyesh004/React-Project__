@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.footer-id
+{
+  background-color:rgb(255, 72, 5);
+}
+
+.navbar li
+{
+  padding: 10px 20px;
+  list-style: none;
+  
+}
+.navbar li a
+{
+  text-decoration: none;
+  color: black;
+}
+.footer-ul-li ul li
+{
+  list-style: none;
+}
+.footer-ul-li ul li a
+{
+  text-decoration: none;
+  color: white;
+  
+}
